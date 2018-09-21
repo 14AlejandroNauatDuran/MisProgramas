@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537485465 source:c:\users\admin\documents\misprogramas\unidad1\numeronatural\main.cpp
+	<iostream>
+	<stdlib.h>
+	"NUMNATURAL.h"
+
+1537485466 c:\users\admin\documents\misprogramas\unidad1\numeronatural\include\numnatural.h
+
+1537486737 source:c:\users\admin\documents\misprogramas\unidad1\numeronatural\src\numnatural.cpp
+	"NUMNATURAL.h"
+	<iostream>
+

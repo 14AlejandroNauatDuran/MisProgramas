@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1537548328 source:c:\users\admin\documents\misprogramas\unidad1\ahorcado\main.cpp
+	<iostream>
+	"ahorcado.h"
+
+1537494499 c:\users\admin\documents\misprogramas\unidad1\ahorcado\include\ahorcado.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1537547694 source:c:\users\admin\documents\misprogramas\unidad1\ahorcado\src\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<vector>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
