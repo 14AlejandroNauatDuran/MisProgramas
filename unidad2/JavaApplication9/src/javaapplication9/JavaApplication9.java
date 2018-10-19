@@ -25,13 +25,10 @@ public class JavaApplication9 {
              BufferedReader br =  new  BufferedReader (fr);
              String linea;
              System.out.println("Lista de nombres\n");
+             
              while ((linea = br.readLine()) !=  null )
              {
                  System.out.println(linea);
-             }
-             System.out.println("");
-             while ((linea = br.readLine()) !=  null )
-             {
                  palabras.add(linea);
              }
           
