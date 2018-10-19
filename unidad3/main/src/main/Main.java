@@ -20,7 +20,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-         Nodo primero = new Nodo("ejemplo"); //de esta manera creamos a los nodos y les añadimos un valor
+        /* Nodo primero = new Nodo("ejemplo"); //de esta manera creamos a los nodos y les añadimos un valor
          Nodo segundo = new Nodo(234);
          Nodo tercero = new Nodo("Profe Leonel");
          Nodo cuarto = new Nodo(55);
@@ -48,7 +48,7 @@ public class Main {
                  .ObtenerSiguiente()
                  .ObtenerSiguiente()
                  .ObtenerSiguiente()
-                 .ObtenerValor().toString());
+                 .ObtenerValor().toString());*/
        
    ////////////////////////////////////////////////////////////////
    ///////////////////////////////////////////////////////////////
@@ -64,6 +64,8 @@ public class Main {
    lista.addPrimero("israel");
    lista.addPrimero(20);
    lista.addPrimero("angel");
+   
+   //lista.imprimir();
    
    lista.eliminar(3);
    System.out.println("nuevo valor posicion que se elimino:"+ lista.Obtener(3).toString());
